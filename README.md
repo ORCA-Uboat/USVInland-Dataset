@@ -18,7 +18,8 @@
   
 ## Introduction
 
-USVInland is the first multi-sensor dataset for the unmanned surface vehicle in inland waterways. To meet the requirement of perception and localization for USV in real-world inland waterways, the dataset mainly contains three tasks: SLAM/odometry, stereo matching, and water segmentation. 
+USVInland is the first multi-sensor dataset for the unmanned surface vehicle in inland waterways. The acquisition platform is equipped with Lidar, stereo camera, radar, and INS.
+To meet the requirement of perception and localization for USV in real-world inland waterways, the dataset mainly contains three tasks: SLAM/odometry, stereo matching, and water segmentation. 
 
 By publishing this dataset, it is hoped that USVInland can support more researches on autonomous driving above water surface for better solutions to the challenges caused by the unique sailing scenes, so as to push forward the development of USVs for inland waterways.
 
