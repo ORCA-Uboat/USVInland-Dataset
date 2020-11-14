@@ -1,10 +1,18 @@
 # [USVInland-Dataset](https://www.orca-tech.cn/datasets.html)
 
+
 <a href="https://www.orca-tech.cn/datasets.html">
 <div align=center>
-<img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/pic1.png" width="250" height="141"/>
-<img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/pic2.png" width="250" height="141"/>
-<img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/pic3.png" width="250" height="141"/>
+  <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/1.gif" width="150" height="84"/>
+  <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/2.gif" width="150" height="84"/>
+  <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/3.gif" width="150" height="84"/>
+  <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/4.gif" width="150" height="84"/>
+  <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/5.gif" width="150" height="84"/>
+  <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/6.gif" width="150" height="84"/>
+  <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/7.gif" width="150" height="84"/>
+  <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/8.gif" width="150" height="84"/>
+  <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/9.gif" width="150" height="84"/>
+  <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/91.gif" width="150" height="84"/>
 </div>
 </a>
   
@@ -20,15 +28,8 @@ To learn more details about USVInland and download the dataset together with the
 
 <a href="https://www.orca-tech.cn/datasets.html">
 <div align=center>
-  <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/1.gif" width="188" height="105.8"/>
-  <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/2.gif" width="188" height="105.8"/>
-  <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/3.gif" width="188" height="105.8"/>
-  <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/4.gif" width="188" height="105.8"/>
-  <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/5.gif" width="188" height="105.8"/>
-  <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/6.gif" width="188" height="105.8"/>
-  <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/7.gif" width="188" height="105.8"/>
-  <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/8.gif" width="188" height="105.8"/>
-  <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/9.gif" width="188" height="105.8"/>
-  <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/91.gif" width="188" height="105.8"/>
+<img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/pic1.png" width="270" height="152"/>
+<img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/pic2.png" width="270" height="152"/>
+<img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/pic3.png" width="270" height="152"/>
 </div>
 </a>
