@@ -24,10 +24,11 @@ To learn more details about USVInland and download the dataset together with the
   <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/2.gif" width="188" height="105.8"/>
   <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/3.gif" width="188" height="105.8"/>
   <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/4.gif" width="188" height="105.8"/>
-  
   <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/5.gif" width="188" height="105.8"/>
   <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/6.gif" width="188" height="105.8"/>
   <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/7.gif" width="188" height="105.8"/>
   <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/8.gif" width="188" height="105.8"/>
+  <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/9.gif" width="188" height="105.8"/>
+  <img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/91.gif" width="188" height="105.8"/>
 </div>
 </a>
