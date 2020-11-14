@@ -2,9 +2,9 @@
 
 <a href="https://www.orca-tech.cn/datasets.html">
 <div align=center>
-<img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/pic1.png" width="250" height="200"/>
-<img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/pic2.png" width="250" height="200"/>
-<img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/pic3.png" width="250" height="200"/>
+<img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/pic1.png" width="250" height="141"/>
+<img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/pic2.png" width="250" height="141"/>
+<img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/pic3.png" width="250" height="141"/>
 </div>
 </a>
   
