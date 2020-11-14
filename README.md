@@ -6,7 +6,7 @@ USVInland is the first multi-sensor dataset for the unmanned surface vehicle in 
 
 ### [Dataset Download](https://www.orca-tech.cn/datasets.html)
 
-To learn more details about USVInland and download the dataset together with the developed tools, please visit our [website](https://www.orca-tech.cn/datasets.html)!
+To learn more details about USVInland and download the dataset together with the development tools, please visit our [website](https://www.orca-tech.cn/datasets.html)!
 
 <div align=center>
 <a href="https://www.orca-tech.cn/datasets.html"><img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/pic1.png" height="200" width="250"/><a href="https://www.orca-tech.cn/datasets.html"><img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/pic2.png" width="250" height="200"/><a href="https://www.orca-tech.cn/datasets.html"><img src="https://github.com/ORCA-TECH/USVInland-Dataset/blob/main/Pictures/pic3.png" width="250" height="200"/>
